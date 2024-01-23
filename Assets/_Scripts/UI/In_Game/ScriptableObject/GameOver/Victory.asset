@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d69d86e910c53e489ef2fa7ab860865, type: 3}
+  m_Name: Victory
+  m_EditorClassIdentifier: 
+  endGameLogo: {fileID: 21300000, guid: 6ee64cb6203f4ee4f98927cd0c350fa7, type: 3}
+  textEnterColor: {r: 0, g: 0.69411767, b: 1, a: 1}

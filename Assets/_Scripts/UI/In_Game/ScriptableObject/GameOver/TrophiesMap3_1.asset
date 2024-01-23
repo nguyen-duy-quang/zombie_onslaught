@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da9edc24c3bf0d0489d0731258945098, type: 3}
+  m_Name: TrophiesMap3_1
+  m_EditorClassIdentifier: 
+  imageTrophies: {fileID: 21300000, guid: 0746a1329c0f0b342b2d7c9c3c636be0, type: 3}
+  quantity: 350
